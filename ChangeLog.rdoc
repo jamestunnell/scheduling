@@ -1,4 +1,8 @@
-=== 0.1.0 / 2013-08-16
+=== 0.1.1 / 2013-08-19
 
 * Initial release:
+
+=== 0.1.2 / 2013-08-19
+
+Add Quarterly regularity class, which brings Date.quarterly, Date.q1, Date.q2, Date.q3, Date.q4, Date#qday, Date#quarter, and Date#next_quarter.
 

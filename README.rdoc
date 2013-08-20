@@ -6,7 +6,7 @@
 
 == Description
 
-Plan and keep track of project/activity scheduling, including budgeting and accounting.
+Classes for making schedules, that are regular (yearly, monthly, quarterly, etc.), irregular, or both (compound). Once a schedule is made, and given a target date range, the date of all occurances can be determined.
 
 == Features
 
