@@ -2,6 +2,7 @@ require 'scheduling/version'
 require 'scheduling/intersection'
 
 require 'scheduling/regularity/monthly'
+require 'scheduling/regularity/quarterly'
 require 'scheduling/regularity/yearly'
 
 require 'scheduling/schedule/regular_schedule'
